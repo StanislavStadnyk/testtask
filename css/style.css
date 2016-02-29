@@ -1,0 +1,11 @@
+#header {
+  width: 500px;
+  height: 500px;
+  background: red; }
+  #header div {
+    position: absolute;
+    height: 200px;
+    background: #000;
+    width: 100px; }
+  #header p {
+    background: green; }
